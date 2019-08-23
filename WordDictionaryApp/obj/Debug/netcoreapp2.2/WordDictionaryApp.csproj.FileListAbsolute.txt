@@ -1,0 +1,14 @@
+D:\siva\learning\DotNet\WordDictionaryApp\bin\Debug\netcoreapp2.2\WordDictionaryApp.deps.json
+D:\siva\learning\DotNet\WordDictionaryApp\bin\Debug\netcoreapp2.2\WordDictionaryApp.runtimeconfig.json
+D:\siva\learning\DotNet\WordDictionaryApp\bin\Debug\netcoreapp2.2\WordDictionaryApp.runtimeconfig.dev.json
+D:\siva\learning\DotNet\WordDictionaryApp\bin\Debug\netcoreapp2.2\WordDictionaryApp.dll
+D:\siva\learning\DotNet\WordDictionaryApp\obj\Debug\netcoreapp2.2\WordDictionaryApp.csprojAssemblyReference.cache
+D:\siva\learning\DotNet\WordDictionaryApp\obj\Debug\netcoreapp2.2\WordDictionaryApp.csproj.CoreCompileInputs.cache
+D:\siva\learning\DotNet\WordDictionaryApp\obj\Debug\netcoreapp2.2\WordDictionaryApp.RazorAssemblyInfo.cache
+D:\siva\learning\DotNet\WordDictionaryApp\obj\Debug\netcoreapp2.2\WordDictionaryApp.RazorAssemblyInfo.cs
+D:\siva\learning\DotNet\WordDictionaryApp\obj\Debug\netcoreapp2.2\WordDictionaryApp.AssemblyInfoInputs.cache
+D:\siva\learning\DotNet\WordDictionaryApp\obj\Debug\netcoreapp2.2\WordDictionaryApp.AssemblyInfo.cs
+D:\siva\learning\DotNet\WordDictionaryApp\obj\Debug\netcoreapp2.2\WordDictionaryApp.RazorTargetAssemblyInfo.cache
+D:\siva\learning\DotNet\WordDictionaryApp\bin\Debug\netcoreapp2.2\WordDictionaryApp.pdb
+D:\siva\learning\DotNet\WordDictionaryApp\obj\Debug\netcoreapp2.2\WordDictionaryApp.dll
+D:\siva\learning\DotNet\WordDictionaryApp\obj\Debug\netcoreapp2.2\WordDictionaryApp.pdb
