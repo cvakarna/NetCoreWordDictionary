@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Newtonsoft.Json;
@@ -23,7 +24,8 @@ namespace WordDictionaryApp.Repository
             {
                 while (reader.Peek() >= 0)
                 {
-                    var stringOfWords = reader.ReadLine().Split(' ');
+                    var newLine = reader.ReadLine();
+                    var stringOfWords = Regex.Split(newLine, @"[' &.,?$+-]+"); //Excluding special characters
                     listOfWords.AddRange(stringOfWords);
                 }
             }

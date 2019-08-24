@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\siva\\learning\\DotNet\\WordDictionaryApp\\WordDictionaryApp.csproj": {}
+    "D:\\siva\\learning\\DotNet\\GITHUB\\NetCoreWordDictionary\\WordDictionaryApp\\WordDictionaryApp.csproj": {}
   },
   "projects": {
-    "D:\\siva\\learning\\DotNet\\WordDictionaryApp\\WordDictionaryApp.csproj": {
+    "D:\\siva\\learning\\DotNet\\GITHUB\\NetCoreWordDictionary\\WordDictionaryApp\\WordDictionaryApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\siva\\learning\\DotNet\\WordDictionaryApp\\WordDictionaryApp.csproj",
+        "projectUniqueName": "D:\\siva\\learning\\DotNet\\GITHUB\\NetCoreWordDictionary\\WordDictionaryApp\\WordDictionaryApp.csproj",
         "projectName": "WordDictionaryApp",
-        "projectPath": "D:\\siva\\learning\\DotNet\\WordDictionaryApp\\WordDictionaryApp.csproj",
+        "projectPath": "D:\\siva\\learning\\DotNet\\GITHUB\\NetCoreWordDictionary\\WordDictionaryApp\\WordDictionaryApp.csproj",
         "packagesPath": "C:\\Users\\Bizruntime-94\\.nuget\\packages\\",
-        "outputPath": "D:\\siva\\learning\\DotNet\\WordDictionaryApp\\obj\\",
+        "outputPath": "D:\\siva\\learning\\DotNet\\GITHUB\\NetCoreWordDictionary\\WordDictionaryApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -70,18 +70,6 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.2, )"
-            },
-            "Serilog.Extensions.Logging": {
-              "target": "Package",
-              "version": "[3.0.1, )"
-            },
-            "Serilog.Settings.Configuration": {
-              "target": "Package",
-              "version": "[3.1.0, )"
-            },
-            "Serilog.Sinks.Console": {
-              "target": "Package",
-              "version": "[3.1.1, )"
             }
           },
           "imports": [
